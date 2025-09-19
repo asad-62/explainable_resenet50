@@ -28,9 +28,9 @@ python shape_xai.py
 ## Visual
 ### Grad-CAM
 ![Grad-CAM](https://github.com/asad-62/explainable_resenet50/blob/main/gradcam_results.png?raw=true)
-
+### SHAP
+![SHAP](https://github.com/asad-62/explainable_resenet50/blob/main/shap_output.png?raw=true)
 ### LIME
 ![LIME](https://github.com/asad-62/explainable_resenet50/blob/main/lime_explanation.png?raw=true)
 
-### SHAP
-![SHAP](https://github.com/asad-62/explainable_resenet50/blob/main/shap_output.png?raw=true)
+
