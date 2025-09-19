@@ -27,4 +27,4 @@ python shape_xai.py
 ### Gradcam > jupyter notebook explainable_ai_gradcam.ipynb
 
 ### Grad-CAM
-![Grad-CAM](gradcam_cropped.png)
+![Grad-CAM](gradcam_results.png)
