@@ -17,7 +17,7 @@ This project demonstrates basic explainable AI (XAI) techniques on a pretrained 
 
 Install the dependencies with:
 
-```bash
+bash
 pip install -r requirements.txt
 
 ## Reprodcuing the results
@@ -25,7 +25,7 @@ python lime_single_image.py
 python shape_xai.py
 
 ### Gradcam > jupyter notebook explainable_ai_gradcam.ipynb
-
+## Visual
 ### Grad-CAM
 ![Grad-CAM](https://github.com/asad-62/explainable_resenet50/blob/main/gradcam_results.png?raw=true)
 
