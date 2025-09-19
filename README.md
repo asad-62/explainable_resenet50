@@ -4,7 +4,7 @@ This project demonstrates basic explainable AI (XAI) techniques on a pretrained 
 
 ## Contents
 
-- `explainable_ai.ipynb` — Grad-CAM implementation in Jupyter Notebook
+- `explainable_ai_gradcam.ipynb` — Grad-CAM implementation in Jupyter Notebook
 - `lime_single_image.py` — LIME applied to a local image
 - `shape_xai.py` — SHAP applied to the same image
 - `Bullmastiff.jpg` — Sample ImageNet image used for testing
@@ -24,5 +24,5 @@ pip install -r requirements.txt
 python lime_single_image.py
 python shape_xai.py
 
-### Gradcam > jupyter notebook explainable_ai.ipynb
+### Gradcam > jupyter notebook explainable_ai_gradcam.ipynb
 
